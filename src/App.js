@@ -1,9 +1,10 @@
 import './App.css';
+import Sidebar from './Sidebar';
 
 function App() {
   return (
     <div className="App">
-     <h2>let's Start Twitter-clone with react</h2>
+    <Sidebar />
     </div>
   );
 }
