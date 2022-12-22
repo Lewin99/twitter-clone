@@ -13,8 +13,8 @@ function Widget() {
         <div className='widget-widgetContainer'>
         <h2>What's happening</h2>
 
+        <TwitterTweetEmbed tweetId={"1605921147219955712"} />
         <TwitterTweetEmbed tweetId={"1601105949137461249"} />
-        <TwitterTweetEmbed tweetId={"1603154364020838400"} />
 
 
       </div>
